@@ -1,4 +1,4 @@
-# babel-plugin-amd-namer
+# babel-plugin-default-identifier
 
 > A [Babel](https://github.com/babel/babel) plugin to wrap the "default" identifier with apostrophes
 
