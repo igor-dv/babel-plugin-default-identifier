@@ -1,6 +1,6 @@
 {
   "name": "babel-plugin-default-identifier",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A Babel plugin to wrap the 'default' identifier with apostrophes",
   "author": {
     "name": "igor-dv"

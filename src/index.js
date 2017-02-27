@@ -4,7 +4,7 @@ export default function () {
       Identifier(path) {
         const name = path.node.name;
 
-        if(name === 'default') {
+        if(path.parent.type === 'ObjectProperty' && name === 'default') {
           path.node.name = "'default'";
         }
       }
